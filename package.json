@@ -1,0 +1,25 @@
+{
+  "name": "react-statcounter",
+  "version": "1.0.0",
+  "description": "Minimal Statcounter include component.",
+  "keywords": [
+    "react",
+    "stats",
+    "counter"
+  ],
+  "homepage": "https://github.com/null-none/react-statcounter#readme",
+  "bugs": {
+    "url": "https://github.com/null-none/react-statcounter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/react-statcounter.git"
+  },
+  "license": "MIT",
+  "author": "Kalinin Dmytro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
