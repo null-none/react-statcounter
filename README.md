@@ -2,13 +2,16 @@
 
 Minimal Statcounter include component.
 
-## Files
-- `src/StatcounterSimple.tsx`
+### Install
 
-## Usage
+```bash
+npm install react-statcounter
+```
+
+### Usage
 
 ```tsx
-import { StatcounterSimple } from "./src/StatcounterSimple";
+import { StatcounterSimple } from "react-statcounter";
 
 export function App() {
   return (
