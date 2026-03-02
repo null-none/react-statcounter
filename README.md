@@ -1,4 +1,4 @@
-# StatcounterSimple (React)
+# Statcounter
 
 Minimal Statcounter include component.
 
